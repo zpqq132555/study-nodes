@@ -1,0 +1,1 @@
+{"package":"com.zhijian.gframework3d","name":"GFramework_3D","versionName":"1.0.0","versionCode":"100","minPlatformVersion":"1050","icon":"/logo.png","features":[{"name":"system.prompt"},{"name":"system.router"},{"name":"system.shortcut"}],"permissions":[{"origin":"*"}],"orientation":"landscape"}

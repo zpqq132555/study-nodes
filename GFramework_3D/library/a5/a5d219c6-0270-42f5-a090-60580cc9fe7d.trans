@@ -1,0 +1,6 @@
+{
+    "resolveMap": {
+        "../_message/MsgCenter": "../_message/MsgCenter.ts",
+        "../_message/MsgConfig": "../_message/MsgConfig.ts"
+    }
+}

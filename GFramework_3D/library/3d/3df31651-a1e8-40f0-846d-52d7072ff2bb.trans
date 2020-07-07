@@ -1,0 +1,6 @@
+{
+    "resolveMap": {
+        "../../GameConfig": "../../GameConfig.ts",
+        "../tools/DebugUtil": "../tools/DebugUtil.ts"
+    }
+}

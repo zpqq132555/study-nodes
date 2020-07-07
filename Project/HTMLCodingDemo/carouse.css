@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 10px;
+}
+
+.wrapper {
+    width: 70%;
+    height: 500px;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 黑体, serif;
+    font-weight: normal;
+    background: #eee;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.aside {
+    background:#ebebeb url("./pic/grey-shadow-top.gif") repeat-x;
+    width: 20%;
+    height: 400px;
+}
+
+.aside-left {
+    float: left;
+}
+
+.aside-right {
+    float: left;
+}
+
+h4 {
+    padding: 20px 0 15px 10px;
+}
+
+ul {
+    padding-left: 30px;
+}
+
+li {
+    line-height: 1.5em;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.main {
+    background:#fff url("./pic/white-shadow-top.gif") repeat-x;
+    width: 60%;
+    height: 400px;
+    float: left;
+}
+
+.main p {
+    text-indent: 2em;
+    line-height: 1.5em;
+    padding: 10px 20px 10px 10px;
+    font-size: 14px;
+}

@@ -1,0 +1,35 @@
+### 复制项目步骤：
+
+1. 复制GFramework_3D项目到指定目录，修改目录名为项目名称
+2. 修改package.json中的项目名称
+3. 删除library、local、temp目录，以清除之前的缓存，防止打包时候出现代码和资源重复
+
+
+
+### 新项目配置 
+
+1. 修改package.json中的项目名称
+2. 修改项目-->项目设置-->通用设置中的设计分辨率和适配屏幕宽度/高度
+3. 修改项目-->项目设置-->项目预览中的自定义设备数据，用于浏览器中预览时候的设备分辨率（如果要测试不同分辨率的设配效果，在Chrome中用手机模式，设置不同的分辨率测试，Cocos自带的不好用）
+4. 修改项目-->项目设置-->项目预览中的初始预览场景为Init场景，用于框架初始化
+5. 配置framework中的MsgConfig、AudioConfig、SceneConfig、UIConfig
+6. 游戏存档在GameData中的loadGameRecord和saveGameRecord中配置
+
+
+
+### 新UI界面
+
+1. 如果是全屏界面则基于_templatePanel拷贝一份，然后修改预制体名称和根节点Node名称
+2. 如果是弹窗界面则基于_templatePopPanel拷贝一份，然后修改预制体名称和根节点Node名称
+3. 创建管理该界面的js脚本（内容可以拷贝UIPanelTemplate模板，要修改require路径），继承UIBasePanel，然后挂载到UI界面的根节点上
+4. 在UIConfig中添加该页面的枚举，名称要与预制体名称一致
+
+
+
+### 打包步骤
+
+1. 把图片资源用tinypng压缩
+2. 把音频资源压缩
+3. 项目设置-->模块设置，将不需要的模块取消勾选，以减小包体大小
+4. 修改GameConfig中的Platform打包目标平台
+5. 关闭GameConfig中的DebugMode和TestMode

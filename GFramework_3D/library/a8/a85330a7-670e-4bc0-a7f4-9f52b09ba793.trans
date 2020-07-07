@@ -1,0 +1,6 @@
+{
+    "resolveMap": {
+        "./framework/tools/DebugUtil": "framework/tools/DebugUtil.ts",
+        "./Game": "Game.ts"
+    }
+}

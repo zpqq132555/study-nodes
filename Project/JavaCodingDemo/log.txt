@@ -1,0 +1,1165 @@
+05-18 15:31:11.198 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:11.199 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: main
+05-18 15:31:11.199 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:11.199 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ SplashCtrActivity.lambda$nextActivity$0$SplashCtrActivity  (SplashCtrActivity.java:62)
+05-18 15:31:11.199 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:11.199 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:11.199 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ The splash screen switch is not on or the AD switch data is not requested
+05-18 15:31:11.199 5653-5653/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |REAL CAR DRIFT SIMULATOR
+05-18 15:31:13.393 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |0%
+05-18 15:31:13.395 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |If it has all four tires and gets you from point A to point B then it's a car
+05-18 15:31:13.396 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |I drift not because it is a quicker way around a
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ corner, but it is the most exciting way
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ -Keiichi Tsuchiya
+05-18 15:31:13.397 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.624 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.625 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.625 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.625 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.625 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.625 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.625 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Continue
+05-18 15:31:18.625 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Tomorrow
+05-18 15:31:18.626 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Day 3
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Day 4
+05-18 15:31:18.627 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Day 5
+05-18 15:31:18.628 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |DAILY SURPRISE REWARDS
+05-18 15:31:18.630 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Wait and come back tomorrow for more rewards
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Today
+05-18 15:31:18.631 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Rate
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Play
+05-18 15:31:27.502 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |More Games
+05-18 15:31:27.503 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:35.084 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Britney
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Ryder
+05-18 15:31:35.085 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |1
+05-18 15:31:37.250 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |XP
+05-18 15:31:37.273 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |0
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |0
+05-18 15:31:37.276 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:46.688 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |20000
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.689 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.690 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:46.699 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:46.699 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.699 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:46.699 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:46.699 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:46.699 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:46.699 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |45000
+05-18 15:31:49.081 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:49.082 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |25
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:49.083 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.066 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.067 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:55.067 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.067 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:55.067 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:55.067 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.067 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |3500
+05-18 15:31:55.067 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:55.068 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |15
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:55.069 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |2500
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:31:58.366 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:31:58.367 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:31:58.368 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |unlocks at level
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:01.853 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.632 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |1000
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌─────────────────────────────────────────────���──────────────────────────────────────────────────────────────────
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:04.633 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────��───
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:04.634 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |9000
+05-18 15:32:07.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:07.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |10
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:07.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |15000
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:09.231 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:09.232 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |12500
+05-18 15:32:19.198 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:19.199 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:19.200 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |12500
+05-18 15:32:20.101 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:20.102 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:20.105 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:20.106 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |10500
+05-18 15:32:21.265 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:21.266 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:21.267 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.267 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:21.267 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:21.267 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:21.267 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:21.267 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |12500
+05-18 15:32:23.721 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:23.722 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |unlocks at level
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:34.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |unlocks at level
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:36.982 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:36.983 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:36.983 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:36.983 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |7
+05-18 15:32:36.983 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |25000
+05-18 15:32:37.817 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:37.818 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.819 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:37.819 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:37.819 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:37.819 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:37.819 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5000
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:42.916 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:42.917 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |4000
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |OR
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:45.702 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UNLOCK
+05-18 15:32:45.703 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Enter
+05-18 15:32:50.684 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Tuning
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UPGRADE
+05-18 15:32:50.685 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:55.767 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Enter
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Tuning
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |UPGRADE
+05-18 15:32:55.768 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |12500
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |unlock
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |unlock
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |CHINA TOWN
+05-18 15:32:56.876 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |unlock
+05-18 15:32:56.877 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |unlock
+05-18 15:32:56.879 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |NEW ISLAND
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |15000
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄���┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |10
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.880 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.881 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.881 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.881 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.881 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |PLAY
+05-18 15:32:56.881 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |airport
+05-18 15:32:56.884 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |BUILD TOWN
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Back
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |PLAY
+05-18 15:32:56.885 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |BIG CITY
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |STADIUM
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |RED TOWN
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |5000
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |PLAY
+05-18 15:32:56.886 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |0
+05-18 15:32:56.887 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |0
+05-18 15:32:56.888 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Fill'er up. High octane
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |0%
+05-18 15:33:00.543 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |0
+05-18 15:33:04.535 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:05.063 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:05.063 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |000
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |1
+05-18 15:33:05.064 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |GARAGE
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |MENU
+05-18 15:33:10.077 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |CONTINUE
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Write to
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ the developers
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Controls
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |RELOAD
+05-18 15:33:10.078 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |2360
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |31
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ KMH
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |3
+05-18 15:33:11.938 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |GARAGE
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |MENU
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |CONTINUE
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Write to
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ the developers
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |Controls
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ Thread: UnityMain
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ MainActivity.deBug  (MainActivity.java:95)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │    AllUtils.deBug  (AllUtils.java:25)
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: │ unity:Text LocalizeText:: text: |RELOAD
+05-18 15:33:13.073 5653-5682/com.pickle.RealDriftSimulator D/PRETTY_LOGGER: └────────────────────────────────────────────────────────────────────────────────────────────────────────────────

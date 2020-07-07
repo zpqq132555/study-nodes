@@ -1,0 +1,5 @@
+{
+    "resolveMap": {
+        "../../GameConfig": "../../GameConfig.ts"
+    }
+}

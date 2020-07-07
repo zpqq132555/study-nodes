@@ -1,0 +1,10 @@
+{
+    "resolveMap": {
+        "./framework/tools/DebugUtil": "framework/tools/DebugUtil.ts",
+        "./framework/scene/SceneConfig": "framework/scene/SceneConfig.ts",
+        "./framework/ui/UIConfig": "framework/ui/UIConfig.ts",
+        "./framework/ui/UIManager": "framework/ui/UIManager.ts",
+        "./framework/_message/MsgConfig": "framework/_message/MsgConfig.ts",
+        "./Game": "Game.ts"
+    }
+}

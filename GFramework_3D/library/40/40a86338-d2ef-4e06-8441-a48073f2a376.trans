@@ -1,0 +1,6 @@
+{
+    "resolveMap": {
+        "../tools/DebugUtil": "../tools/DebugUtil.ts",
+        "./SceneConfig": "SceneConfig.ts"
+    }
+}

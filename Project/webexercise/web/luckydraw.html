@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>卫生打扫</title>
+    <link rel="stylesheet" href="./css/luckydraw.css">
+</head>
+<body>
+    <div id="title" class="title">开始抽人！</div>
+    <div class="btns">
+        <span id="play">开 始</span>
+        <span id="stop">停 止</span>
+    </div>
+    <script>
+        var timer = null;
+        var data = [];
+
+        window.onload = function () {
+
+            var url = "./json/name.json";
+            var request = new XMLHttpRequest();
+            request.open("get", url);
+            request.send(null);
+            request.onload = function () {
+                if (request.status == 200)
+                {
+                    var json = JSON.parse(request.responseText);
+                    for (var i in json)
+                    {
+                        data.push(i);
+                    }
+                }
+            }
+
+            var play = document.getElementById("play"),
+                stop = document.getElementById("stop");
+            // 开始抽
+            play.onclick = playFun;
+            stop.onclick = stopFun;
+
+            // 开始抽奖
+            function playFun() {
+                var title = document.getElementById('title');
+                var play = document.getElementById('play');
+                //每次都先清除上一次的定时器任务，避免抽奖效果累加频率会越来越快
+                clearInterval(timer);
+                timer = setInterval(function() {
+                    var random = Math.floor(Math.random() * data.length);
+                    title.innerHTML = data[random];
+                }, 50);
+                play.style.background = '#999';
+            }
+            //停止抽奖
+            function stopFun() {
+                clearInterval(timer);
+                var play = document.getElementById('play');
+                play.style.background = '#036';
+            }
+        }
+
+    </script>
+</body>
+</html>

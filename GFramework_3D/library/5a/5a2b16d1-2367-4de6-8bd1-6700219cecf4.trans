@@ -1,0 +1,12 @@
+{
+    "resolveMap": {
+        "./framework/audio/AudioManager": "framework/audio/AudioManager.ts",
+        "./framework/save/SaveManager": "framework/save/SaveManager.ts",
+        "./framework/scene/SceneManager": "framework/scene/SceneManager.ts",
+        "./framework/tools/DebugUtil": "framework/tools/DebugUtil.ts",
+        "./framework/ui/UIManager": "framework/ui/UIManager.ts",
+        "./framework/_message/MsgCenter": "framework/_message/MsgCenter.ts",
+        "./GameConfig": "GameConfig.ts",
+        "./GameManager": "GameManager.ts"
+    }
+}

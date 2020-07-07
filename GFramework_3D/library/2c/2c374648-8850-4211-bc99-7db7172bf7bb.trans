@@ -1,0 +1,8 @@
+{
+    "resolveMap": {
+        "../save/SaveManager": "../save/SaveManager.ts",
+        "../tools/DebugUtil": "../tools/DebugUtil.ts",
+        "../tools/Tools": "../tools/Tools.ts",
+        "./AudioConfig": "AudioConfig.ts"
+    }
+}

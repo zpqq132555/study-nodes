@@ -1,0 +1,7 @@
+{
+    "resolveMap": {
+        "../tools/DebugUtil": "../tools/DebugUtil.ts",
+        "./UIBasePanel": "UIBasePanel.ts",
+        "./UIConfig": "UIConfig.ts"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "resolveMap": {
+        "./MathTools": "MathTools.ts",
+        "./PlatformTools": "PlatformTools.ts",
+        "./TimeTools": "TimeTools.ts"
+    }
+}

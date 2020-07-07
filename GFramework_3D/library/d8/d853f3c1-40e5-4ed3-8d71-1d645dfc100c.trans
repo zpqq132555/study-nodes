@@ -1,0 +1,7 @@
+{
+    "resolveMap": {
+        "../../GameConfig": "../../GameConfig.ts",
+        "../save/SaveManager": "../save/SaveManager.ts",
+        "./DebugUtil": "DebugUtil.ts"
+    }
+}

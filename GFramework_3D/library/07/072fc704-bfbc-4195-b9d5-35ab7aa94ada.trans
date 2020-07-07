@@ -1,0 +1,9 @@
+{
+    "resolveMap": {
+        "./framework/tools/DebugUtil": "framework/tools/DebugUtil.ts",
+        "./framework/scene/SceneConfig": "framework/scene/SceneConfig.ts",
+        "./framework/scene/SceneManager": "framework/scene/SceneManager.ts",
+        "./framework/_base/GameBase": "framework/_base/GameBase.ts",
+        "./GameData": "GameData.ts"
+    }
+}

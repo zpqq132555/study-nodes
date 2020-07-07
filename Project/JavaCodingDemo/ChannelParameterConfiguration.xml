@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration path="D:\AndroidKiller_v1.3.1\projects">
+  <VIVO startActivityName="com.admanager.MainActivity">
+    <Parameter>
+      <CommonParameter>
+        <CommonData>deBug</CommonData>
+        <CommonData>appId</CommonData>
+        <CommonData>packageName</CommonData>
+        <apkTool minSdkVersion="16" targetSdkVersion="26" versionCode="100" versionName="1.0.0">version</apkTool>
+      </CommonParameter>
+      <AloneParameter>
+        <AloneData>AloneAppKey</AloneData>
+        <AloneData>app_key</AloneData>
+      </AloneParameter>
+      <AdParameter>
+        <AdData>SplashID</AdData>
+        <AdData>InterstitialID</AdData>
+        <AdData>VideoID</AdData>
+        <AdData>AdAppKey</AdData>
+        <AdData>Title</AdData>
+        <AdData>BannerID</AdData>
+        <AdData>NativeID</AdData>
+      </AdParameter>
+    </Parameter>
+    <CopyPath R="\Project\smali\com\msmnq\game\vivo">
+      <PathFiles>
+        <File>\Project\res\layout\activity_splash.xml</File>
+        <File>\Project\res\layout\activity_banner.xml</File>
+        <File>\Project\res\layout\activity_webnative.xml</File>
+        <File>\Project\res\layout\activity_native.xml</File>
+      </PathFiles>
+      <PathDirs>
+        <Dir>\Project\res\xml</Dir>
+        <Dir>\Project\assets</Dir>
+        <Dir>\Project\smali</Dir>
+        <Dir>\Project\lib</Dir>
+      </PathDirs>
+    </CopyPath>
+  </VIVO>
+</Configuration>
