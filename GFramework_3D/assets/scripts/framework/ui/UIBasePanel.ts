@@ -122,6 +122,9 @@ export class UIBasePanel extends GameBase {
         //初始化屏蔽事件层
         if (this._uiScreenBg == null) {
             this._uiScreenBg = this.node.getChildByName("panelBackground");
+            if (this._uiScreenBg == null) {
+                DebugUtil.logWarn(this.node.name + "not Child panelBackground");
+            }
         }
         if (this._uiScreenBg != null) {
             this._uiScreenBg.on(Node.EventType.TOUCH_END, function () {

@@ -71,11 +71,11 @@ export class SaveManager {
     }
     /**********************各平台的基础API********************/
     private saveItem(key: string, value: string): void {
-        if (GameConfig.PublishPlatform == Platforms.H5) {
+        if (GameConfig.IsPublishPlatform == Platforms.H5) {
             //@ts-ignore
             cc.sys.localStorage.setItem(key, value);
         }
-        else if (GameConfig.PublishPlatform == Platforms.VIVO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.VIVO) {
             //@ts-ignore
             qg.setStorage({
                 key: key,
@@ -88,7 +88,7 @@ export class SaveManager {
                 }
             });
         }
-        else if (GameConfig.PublishPlatform == Platforms.OPPO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.OPPO) {
             //@ts-ignore
             cc.sys.localStorage.setItem(key, value);
         }
@@ -97,17 +97,17 @@ export class SaveManager {
 
     private loadItem(key: string): string {
         let result: any = "";
-        if (GameConfig.PublishPlatform == Platforms.H5) {
+        if (GameConfig.IsPublishPlatform == Platforms.H5) {
             //@ts-ignore
             result = cc.sys.localStorage.getItem(key);
         }
-        else if (GameConfig.PublishPlatform == Platforms.VIVO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.VIVO) {
             //@ts-ignore
             result = qg.getStorageSync({
                 key: key,
             });
         }
-        else if (GameConfig.PublishPlatform == Platforms.OPPO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.OPPO) {
             //@ts-ignore
             result = cc.sys.localStorage.getItem(key);
         }

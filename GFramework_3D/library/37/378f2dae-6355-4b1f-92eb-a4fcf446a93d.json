@@ -65,7 +65,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "screen_bg",
+    "_name": "panelBackground",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -215,7 +215,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "label_test",
+    "_name": "testLabel",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -273,7 +273,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 439.16,
-      "height": 120
+      "height": 151.2
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",

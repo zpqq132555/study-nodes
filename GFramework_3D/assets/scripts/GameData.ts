@@ -36,7 +36,7 @@ export class GameData {
         //存档条目
         let loadItems = {
             saveNumber: 100,
-            saveString: "gaoang",
+            saveString: "oldPoint",
             saveBoolean: 1,
         }
         Game.saveManager.loadGameRecord(loadItems, this.onLoadGameRecord, this);
@@ -45,7 +45,7 @@ export class GameData {
     /**
      * 读取存档成功的回调
      */
-    private onLoadGameRecord(recordData: any): void {
+    private onLoadGameRecord(recordData): void {
         DebugUtil.logInfo("读取存档成功：", recordData);
         //过滤存档内容
         this.saveNumber = recordData.saveNumber;

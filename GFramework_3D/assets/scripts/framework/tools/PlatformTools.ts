@@ -60,13 +60,13 @@ export class PlatformTools {
         if (!this.getVibrateSwitch()) {
             return;
         }
-        if (GameConfig.PublishPlatform == Platforms.H5) {
+        if (GameConfig.IsPublishPlatform == Platforms.H5) {
             return;
         }
-        else if (GameConfig.PublishPlatform == Platforms.VIVO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.VIVO) {
             //@ts-ignore
             qg.vibrateShort();
-        } else if (GameConfig.PublishPlatform == Platforms.OPPO) {
+        } else if (GameConfig.IsPublishPlatform == Platforms.OPPO) {
             //@ts-ignore
             qg.vibrateShort({
                 success: function (_res: any) { },
@@ -80,13 +80,13 @@ export class PlatformTools {
         if (!this.getVibrateSwitch()) {
             return;
         }
-        if (GameConfig.PublishPlatform == Platforms.H5) {
+        if (GameConfig.IsPublishPlatform == Platforms.H5) {
             return;
         }
-        else if (GameConfig.PublishPlatform == Platforms.VIVO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.VIVO) {
             //@ts-ignore
             qg.vibrateLong();
-        } else if (GameConfig.PublishPlatform == Platforms.OPPO) {
+        } else if (GameConfig.IsPublishPlatform == Platforms.OPPO) {
             //@ts-ignore
             qg.vibrateLong({
                 success: function (_res: any) { },
@@ -99,10 +99,10 @@ export class PlatformTools {
     /********************************加速度计相关*********************************/
     //获取加速度计的值
     public listenAccelerometerValue(callback: Function, target: Object): void {
-        if (GameConfig.PublishPlatform == Platforms.H5) {
+        if (GameConfig.IsPublishPlatform == Platforms.H5) {
             return;
         }
-        else if (GameConfig.PublishPlatform == Platforms.VIVO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.VIVO) {
             //@ts-ignore
             qg.subscribeAccelerometer({
                 callback: function (data: { x: any; y: any; z: any; }) {
@@ -111,7 +111,7 @@ export class PlatformTools {
                 }
             });
         }
-        else if (GameConfig.PublishPlatform == Platforms.OPPO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.OPPO) {
             //@ts-ignore
             qg.startAccelerometer({
                 interval: "ui",
@@ -127,14 +127,14 @@ export class PlatformTools {
     }
 
     public stopListenAccelerometerValue(): void {
-        if (GameConfig.PublishPlatform == Platforms.H5) {
+        if (GameConfig.IsPublishPlatform == Platforms.H5) {
             return;
         }
-        else if (GameConfig.PublishPlatform == Platforms.VIVO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.VIVO) {
             //@ts-ignore
             qg.unsubscribeAccelerometer();
         }
-        else if (GameConfig.PublishPlatform == Platforms.OPPO) {
+        else if (GameConfig.IsPublishPlatform == Platforms.OPPO) {
             //@ts-ignore
             qg.stopAccelerometer({
                 success: function (_res: any) { },

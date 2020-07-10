@@ -224,13 +224,14 @@ export class UIManager extends Component {
                 popObj.removeFromParent();
             }
         }
+        //DebugUtil.logInfo("popUIObj2ShowList:",this.showingUIList);
     }
 
     /**
      * 判断某个UI页面是否在显示中
      * @param uiid
      */
-    private checkUIShow(uiid: string | number): boolean {
+    private checkUIShow(uiid): boolean {
         for (let i = 0; i < this.showingUIList.length; i++) {
             if (this.showingUIList[i].name == UIPanels[uiid]) {
                 return true;
@@ -276,6 +277,7 @@ export class UIManager extends Component {
         if (basePanel) {
             basePanel.setPanelDatas(loadObj.datas);
         }
+        //DebugUtil.logInfo("loadUICallBack",this.uiResList[loadObj.uiid]);
         if (this.uiResList[loadObj.uiid] != null) {
             if (this.uiResList[loadObj.uiid].reloadActive != 1) {
                 //加载完成之前没有被关闭了
@@ -295,6 +297,7 @@ export class UIManager extends Component {
         else {
             DebugUtil.logError("加载资源出错，资源缓存是null");
         }
+        //DebugUtil.logInfo("loadUICallBack",this.uiResList[loadObj.uiid]);
     }
 
     /**

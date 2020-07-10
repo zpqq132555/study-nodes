@@ -98,21 +98,14 @@ export class Game extends Component {
     private keyDownEventsDic = {};
     private keyUpEventsDic = {};
 
-    public registerKeyDownEvent(
-        keyCode: number,
-        callback: Function,
-        target: Object
-    ): void {
+    public registerKeyDownEvent(keyCode: number, callback: Function, target: Object): void {
         if (!this.keyDownEventsDic[keyCode]) {
             this.keyDownEventsDic[keyCode] = [];
         }
         this.keyDownEventsDic[keyCode].push({ callback: callback, target: target });
     }
-    public unRegisterKeyDownEvent(
-        keyCode: number,
-        callback: Function,
-        target: Object
-    ): void {
+
+    public unRegisterKeyDownEvent(keyCode: number, callback: Function, target: Object): void {
         if (!this.keyDownEventsDic[keyCode]) {
             return;
         }
@@ -133,11 +126,7 @@ export class Game extends Component {
         }
         this.keyUpEventsDic[keyCode].push({ callback: callback, target: target });
     }
-    public unRegisterKeyUpEvent(
-        keyCode: number,
-        callback: Function,
-        target: Object
-    ): void {
+    public unRegisterKeyUpEvent(keyCode: number, callback: Function, target: Object): void {
         if (!this.keyUpEventsDic[keyCode]) {
             return;
         }
@@ -177,13 +166,9 @@ export class Game extends Component {
         }
     }
 
-    private onKeyDown(event: { keyCode: string | number; }): void {
+    private onKeyDown(event: any): void {
         if (this.keyDownEventsDic[event.keyCode]) {
-            for (
-                let i = this.keyDownEventsDic[event.keyCode].length - 1;
-                i >= 0;
-                i--
-            ) {
+            for (let i = this.keyDownEventsDic[event.keyCode].length - 1; i >= 0; i--) {
                 if (this.keyDownEventsDic[event.keyCode][i].callback != null) {
                     this.keyDownEventsDic[event.keyCode][i].callback.apply(
                         this.keyDownEventsDic[event.keyCode][i].target,

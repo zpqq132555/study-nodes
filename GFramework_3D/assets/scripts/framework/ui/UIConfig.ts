@@ -10,6 +10,9 @@ const { ccclass} = _decorator;
  */
 export enum UIPanels{
     
+
+    _TemplatePanel = 100,
+    _TemplatePopPanel = 101,
 }
 
 @ccclass("UIConfig")
